@@ -6,16 +6,16 @@ function Sponsors() {
             <h1>Our Sponsors</h1>
             <div className="sponsor-logos">
                 <div className="sponsor-item">
-                    <img src='https://lh3.googleusercontent.com/Ug17TTiDjCaPTygdf5vfP8NFlFbh0YXobK88injAlVJadzqkJhceDied9hifuT-4s-U' height='75px' width='75px' />
+                    <img src='https://img.captain-droid.com/wp-content/uploads/2014/07/trivago-icon.png' height='75px' width='75px' />
             </div>
                 <div className="sponsor-item">
-                    <img src='https://lh3.googleusercontent.com/Ug17TTiDjCaPTygdf5vfP8NFlFbh0YXobK88injAlVJadzqkJhceDied9hifuT-4s-U' height='75px' width='75px' />
+                    <img src='https://upload.wikimedia.org/wikipedia/commons/1/19/OYO_Rooms_%28logo%29.png' height='75px' width='75px' />
                 </div>
                 <div className="sponsor-item">
-                    <img src='https://lh3.googleusercontent.com/Ug17TTiDjCaPTygdf5vfP8NFlFbh0YXobK88injAlVJadzqkJhceDied9hifuT-4s-U' height='75px' width='75px' />
+                    <img src='https://logos-world.net/wp-content/uploads/2021/03/Expedia-Emblem.png' height='75px' width='75px' />
                 </div>
                 <div className="sponsor-item">
-                    <img src='https://lh3.googleusercontent.com/Ug17TTiDjCaPTygdf5vfP8NFlFbh0YXobK88injAlVJadzqkJhceDied9hifuT-4s-U' height='75px' width='75px' />
+                    <img src='https://static.cdnlogo.com/logos/s/4/swiggy.svg' height='75px' width='75px' />
                 </div>
             </div>
         </div>
