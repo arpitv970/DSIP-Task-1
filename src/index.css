@@ -37,3 +37,21 @@ code {
   padding: 5px;
   margin: 10px 25px;
 }
+
+.sponsors {
+  margin-top: 5vh;
+  background-color: rgb(46, 44, 44);
+  color: white;
+}
+
+.sponsors .sponsor-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sponsors .sponsor-logos img {
+  border-radius: 20px;
+  padding: 5px;
+  margin: 10px 25px;
+}
