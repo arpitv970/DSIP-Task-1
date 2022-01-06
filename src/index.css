@@ -12,7 +12,28 @@ code {
     monospace;
 }
 
-.carousel-inner{
-  max-height: 75vh;
-  margin: 0 auto;
+.navbar .navbar-brand{
+  font-size: 25px;
+}
+
+.navbar .nav-item{
+  padding-right: 5px;
+  margin-left: 5px;
+  font-size: 20px;
+}
+
+.destinations {
+  margin-top: 5vh;
+}
+
+.destinations .locations {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.destinations .locations img {
+  border-radius: 20px;
+  padding: 5px;
+  margin: 10px 25px;
 }
